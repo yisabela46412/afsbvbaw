@@ -1,0 +1,13 @@
+* {
+    background-color: darkgray;
+    color: white;
+    padding: 4px;
+    margin: 6px;
+    font-size: 16px;
+}
+imagens {
+    width: 150px;
+    height: 150px;
+    border: 8px solid yellow;
+    padding: 6px;
+}
